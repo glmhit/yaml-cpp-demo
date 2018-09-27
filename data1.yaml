@@ -1,0 +1,6 @@
+- list1:
+    child: 1
+    child: 2
+    child: 3
+- list2: 10
+- list3  # this is a pure list 
